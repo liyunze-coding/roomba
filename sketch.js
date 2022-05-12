@@ -29,7 +29,7 @@ function sleep(milliseconds) {
 
 function preload() {
 	img = loadImage("static/roomba.png");
-	dirt = loadImage("static/white_dust_2.png");
+	dirt = loadImage("static/white_dust.png");
 	fuck1 = loadSound("static/audio/fuck1.mp3");
 	fuck2 = loadSound("static/audio/fuck2.mp3");
 	gfd = loadSound("static/audio/godfuckindammit.mp3");
