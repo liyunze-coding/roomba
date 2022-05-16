@@ -36,11 +36,11 @@ function preload() {
 	motherfucker = loadSound("static/audio/motherfucker.mp3");
 	rufs = loadSound("static/audio/rufs.mp3");
 
-	fuck1.setVolume(0.1);
-	fuck2.setVolume(0.1);
-	gfd.setVolume(0.1);
-	motherfucker.setVolume(0.1);
-	rufs.setVolume(0.1);
+	fuck1.setVolume(0.01);
+	fuck2.setVolume(0.01);
+	gfd.setVolume(0.01);
+	motherfucker.setVolume(0.01);
+	rufs.setVolume(0.01);
 
 	// bust_nut = loadSound("static/audio/bust_a_nut.mp3");
 	// big_tiddies = loadSound("static/audio/big_tiddies.mp3");
